@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="137" height="70" viewBox="0 0 137 70">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="69.236" height="13" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="clutch" transform="translate(-1146 -990)">
+    <rect id="Rectangle_20964" data-name="Rectangle 20964" width="137" height="70" transform="translate(1146 990)" fill="none"/>
+    <g id="Group_86570" data-name="Group 86570" transform="translate(0 94.21)">
+      <g id="clutch-co-vector-logo_1_" data-name="clutch-co-vector-logo (1)" transform="translate(1136 667.89)">
+        <circle id="Ellipse_284" data-name="Ellipse 284" cx="3.704" cy="3.704" r="3.704" transform="translate(102.941 253.723)" fill="#ef4335"/>
+        <g id="Group_86560" data-name="Group 86560">
+          <path id="Path_114371" data-name="Path 114371" d="M177,235.9h5.324v32.869H177Z" transform="translate(-125.909)" fill="#fff"/>
+          <path id="Path_114372" data-name="Path 114372" d="M239.583,302.905c0,5.092-4.166,5.555-5.555,5.555-3.241,0-3.7-3.009-3.7-4.629V291.1H225v12.5c0,3.009.926,5.787,2.778,7.407a8.379,8.379,0,0,0,6.25,2.315,8.082,8.082,0,0,0,5.555-1.852v1.852h5.324V291.1h-5.324Z" transform="translate(-164.65 -44.552)" fill="#fff"/>
+          <path id="Path_114373" data-name="Path 114373" d="M343.459,249.1h-5.324v8.1H334.2v5.092h3.935v17.129h5.324V262.294h3.935V257.2h-3.935Z" transform="translate(-252.786 -10.654)" fill="#fff"/>
+          <path id="Path_114374" data-name="Path 114374" d="M423.14,304.672a7.308,7.308,0,0,1-4.4,1.62,6.142,6.142,0,0,1-6.25-6.481,5.954,5.954,0,0,1,6.25-6.25,6.11,6.11,0,0,1,4.4,1.62l.694.694,3.7-3.472-.926-.694a11.868,11.868,0,0,0-7.87-3.009,11.342,11.342,0,1,0,0,22.684,11.868,11.868,0,0,0,7.87-3.009l.926-.694-3.7-3.7Z" transform="translate(-311.866 -42.615)" fill="#fff"/>
+          <path id="Path_114375" data-name="Path 114375" d="M541.2,248.4a7.346,7.346,0,0,0-5.787-2.315,6.962,6.962,0,0,0-5.092,1.852V235.9H525v32.869h5.324V256.5c0-5.092,3.472-5.555,4.861-5.555,3.241,0,3.009,3.009,3.009,4.629v12.962h5.324V255.807C543.518,252.8,542.823,250.02,541.2,248.4Z" transform="translate(-406.782)" fill="#fff"/>
+          <path id="Path_114376" data-name="Path 114376" d="M43.684,265.487a10.854,10.854,0,0,1-7.639,3.009c-5.787,0-9.953-4.629-9.953-10.879s4.166-10.879,10.185-10.879a10.892,10.892,0,0,1,7.639,3.241l.694.694,3.472-3.472-.694-.694a15.589,15.589,0,0,0-11.111-4.629c-8.8-.231-15.277,6.713-15.277,15.74s6.481,15.972,15.046,15.972a15.2,15.2,0,0,0,11.111-4.629l.694-.694-3.472-3.472Z" transform="translate(0 -4.819)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_86561" data-name="Group 86561">
+        <g id="Repeat_Grid_1" data-name="Repeat Grid 1" transform="translate(1203.5 942)" clip-path="url(#clip-path)">
+          <g transform="translate(-1203.5 -943)">
+            <path id="Polygon_4" data-name="Polygon 4" d="M6.5,0,8.125,4.835,13,4.966,9.129,8.085,10.517,13,6.5,10.093,2.483,13,3.871,8.085,0,4.966l4.875-.131Z" transform="translate(1203.5 943)" fill="#fff"/>
+          </g>
+          <g transform="translate(-1189.5 -943)">
+            <path id="Polygon_4-2" data-name="Polygon 4" d="M6.5,0,8.125,4.835,13,4.966,9.129,8.085,10.517,13,6.5,10.093,2.483,13,3.871,8.085,0,4.966l4.875-.131Z" transform="translate(1203.5 943)" fill="#fff"/>
+          </g>
+          <g transform="translate(-1175.5 -943)">
+            <path id="Polygon_4-3" data-name="Polygon 4" d="M6.5,0,8.125,4.835,13,4.966,9.129,8.085,10.517,13,6.5,10.093,2.483,13,3.871,8.085,0,4.966l4.875-.131Z" transform="translate(1203.5 943)" fill="#fff"/>
+          </g>
+          <g transform="translate(-1161.5 -943)">
+            <path id="Polygon_4-4" data-name="Polygon 4" d="M6.5,0,8.125,4.835,13,4.966,9.129,8.085,10.517,13,6.5,10.093,2.483,13,3.871,8.085,0,4.966l4.875-.131Z" transform="translate(1203.5 943)" fill="#fff"/>
+          </g>
+          <g transform="translate(-1147.5 -943)">
+            <path id="Polygon_4-5" data-name="Polygon 4" d="M6.5,0,8.125,4.835,13,4.966,9.129,8.085,10.517,13,6.5,10.093,2.483,13,3.871,8.085,0,4.966l4.875-.131Z" transform="translate(1203.5 943)" fill="#fff"/>
+          </g>
+        </g>
+        <text id="_4.6_5" data-name="4.6/5" transform="translate(1157 954)" fill="#fff" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">4.6/5</tspan></text>
+        <path id="Intersection_1" data-name="Intersection 1" d="M5226.681-1196.535l-3.977-2.878-3.978,2.878h-.032l1.379-4.887-3.87-3.118,4.875-.131,1.625-4.835,1.278,3.8,2.727,9.167Z" transform="translate(-3956.703 2151.507)" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

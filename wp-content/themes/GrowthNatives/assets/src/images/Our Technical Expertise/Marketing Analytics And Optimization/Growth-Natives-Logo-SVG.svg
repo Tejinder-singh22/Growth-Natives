@@ -1,0 +1,21 @@
+<svg id="Growth-Natives-Logo-SVG" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="45.457" height="57.061" viewBox="0 0 45.457 57.061">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#067ebf"/>
+      <stop offset="0.286" stop-color="#007fbf"/>
+      <stop offset="0.344" stop-color="#0087ab"/>
+      <stop offset="0.406" stop-color="#008f97"/>
+      <stop offset="0.472" stop-color="#009585"/>
+      <stop offset="0.54" stop-color="#009c74"/>
+      <stop offset="0.613" stop-color="#22a164"/>
+      <stop offset="0.689" stop-color="#32a657"/>
+      <stop offset="0.773" stop-color="#3caa4e"/>
+      <stop offset="0.868" stop-color="#40ac4a"/>
+      <stop offset="1" stop-color="#42ad49"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.5" y1="1" x2="0.5" y2="0" xlink:href="#linear-gradient"/>
+  </defs>
+  <path id="Path_108506" data-name="Path 108506" d="M138.8,18.453l-5.432-9.281L127.933-.11,122.5,9.171l-5.432,9.281h5.669v38.5h10.388v-38.5Z" transform="translate(-93.34 0.11)" fill="url(#linear-gradient)"/>
+  <rect id="Rectangle_4398" data-name="Rectangle 4398" width="10.388" height="21.993" transform="translate(0 35.067)" fill="url(#linear-gradient)"/>
+  <rect id="Rectangle_4399" data-name="Rectangle 4399" width="10.388" height="30.417" transform="translate(14.699 26.644)" fill="url(#linear-gradient-3)"/>
+</svg>
